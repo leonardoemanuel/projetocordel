@@ -79,6 +79,7 @@ footer{
     color: white;
     background-color: black;
     padding: 4px;
+    font-size: 1.2vw;
 }
 footer a{
     text-decoration: none;
